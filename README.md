@@ -12,3 +12,5 @@ __Minha jornada__:
    - __Aonde quero chegar__: Me tornar um desenvolvedor Back-End em Java, construir projetos sólidos, e ingressar nessa carreira e mundo da porgramação.
 
 Fique a vontade para fazer sugestões, dicas e comentários, para entrar em contato comigo só me chamar: phlddomingues03@gmail.com
+<br><br>
+>Em 27/11/2025
