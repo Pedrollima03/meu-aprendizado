@@ -1,6 +1,6 @@
 ## Lógica de Programação em Java
 <br><br>
->Início in 27/11/2025
+>Início in 27/11/2025.
 
 
 
