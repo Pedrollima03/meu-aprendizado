@@ -1,1 +1,1 @@
-## Estudo Sobre Estruturas Sequenciais
+## Estudos Sobre Estruturas Sequenciais
