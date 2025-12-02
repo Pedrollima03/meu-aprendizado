@@ -50,6 +50,14 @@ nome = "Pedro"
 
 Ou seja eu armazenei uma variável chamada "nome" com um valor que no caso esse valor é "Pedro".
 
- <tipo> <nome> = <valor incial> 
+Alguns exemplos de variáveis;
 
+- int = são números inteiros (sem casas decimais) ex: 1, 15, 500, 8749595, -4, -48941, -50, etc...
 
+- double = são os números reais, como casas decimais ex: 1.5, 2.586, 0.5, 89,852525555, etc...
+
+- char = são valores definidos como um caracter unicode, pode ser um número, uma letra, um caracter especial ex: "V", "F", "&", etc...
+
+- boelan = são valores como verdadeiro ou falso
+
+- string = valores de textos ou palavras "carro", "nome", "programa", "fechado", etc...
